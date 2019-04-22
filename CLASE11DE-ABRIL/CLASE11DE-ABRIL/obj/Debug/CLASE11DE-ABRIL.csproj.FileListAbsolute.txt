@@ -1,0 +1,9 @@
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\bin\Debug\CLASE11DE-ABRIL.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\bin\Debug\CLASE11DE-ABRIL.exe
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\bin\Debug\CLASE11DE-ABRIL.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE-ABRIL.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE_ABRIL.MDIParent1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE_ABRIL.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE-ABRIL.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE-ABRIL.exe
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE11DE-ABRIL\CLASE11DE-ABRIL\obj\Debug\CLASE11DE-ABRIL.pdb
